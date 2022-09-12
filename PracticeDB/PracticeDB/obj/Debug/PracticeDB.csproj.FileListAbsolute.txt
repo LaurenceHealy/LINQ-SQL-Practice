@@ -1,0 +1,16 @@
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\bin\Debug\PracticeDB.exe.config
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\bin\Debug\PracticeDB.exe
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\bin\Debug\PracticeDB.pdb
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\obj\Debug\PracticeDB.csproj.AssemblyReference.cache
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\obj\Debug\PracticeDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\obj\Debug\MainWindow.g.cs
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\obj\Debug\App.g.cs
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\obj\Debug\PracticeDB_MarkupCompile.cache
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\obj\Debug\PracticeDB_MarkupCompile.lref
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\obj\Debug\MainWindow.baml
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\obj\Debug\PracticeDB.g.resources
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\obj\Debug\PracticeDB.Properties.Resources.resources
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\obj\Debug\PracticeDB.csproj.GenerateResource.cache
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\obj\Debug\PracticeDB.csproj.CoreCompileInputs.cache
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\obj\Debug\PracticeDB.exe
+C:\Users\laure\Desktop\PracticeDB\PracticeDB\obj\Debug\PracticeDB.pdb
